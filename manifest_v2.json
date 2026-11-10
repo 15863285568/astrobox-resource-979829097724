@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "979829097724",
+    "restype": "watchface",
+    "name": "Pixel",
+    "description": "谷歌风格表盘",
+    "preview": [
+      "media/pixel_preview_01.png",
+      "media/pixel_preview_02.png",
+      "media/pixel_preview_03.png"
+    ],
+    "icon": "media/icon_pixel.png",
+    "cover": "media/astrobox_poster_pixel_light.png",
+    "author": [
+      {
+        "name": "Qq-designer",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/pixel.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/pixel.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
