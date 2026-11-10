@@ -2,15 +2,15 @@
   "item": {
     "id": "979829097724",
     "restype": "watchface",
-    "name": "Pixel",
-    "description": "谷歌风格表盘",
+    "name": "炫彩时空",
+    "description": "炫彩大时钟",
     "preview": [
-      "media/pixel_preview_01.png",
-      "media/pixel_preview_02.png",
-      "media/pixel_preview_03.png"
+      "media/color_preview_01.png",
+      "media/color_preview_02.png",
+      "media/color_preview_03.png"
     ],
-    "icon": "media/icon_pixel.png",
-    "cover": "media/astrobox_poster_pixel_light.png",
+    "icon": "media/icon_color.png",
+    "cover": "media/astrobox_poster_color_light.png",
     "author": [
       {
         "name": "Qq-designer",
@@ -22,12 +22,12 @@
   "downloads": {
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/pixel.bin",
+      "file_name": "downloads/炫彩时空.bin",
       "versionCode": 65536
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/pixel.bin",
+      "file_name": "downloads/炫彩时空.bin",
       "versionCode": 65536
     }
   },
